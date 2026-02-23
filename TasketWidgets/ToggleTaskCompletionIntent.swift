@@ -1,11 +1,3 @@
-//
-//  ToggleTaskCompletionIntent.swift
-//  Tasket
-//
-//  Created by 탁승훈 on 2/19/26.
-//
-
-
 import AppIntents
 import SwiftData
 
