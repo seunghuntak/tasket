@@ -24,4 +24,12 @@ Tasket is a multi-platform task management app built with SwiftUI and SwiftData.
 (Coming soon)
 
 ## Screenshots
-(Coming soon)
+<p align="center">
+  <img src="screenshots/add-task.png" width="300">
+  <img src="screenshots/today.png" width="300">
+  <img src="screenshots/month.png" width="300">
+  <img src="screenshots/upcoming.png" width="300">
+  <img src="screenshots/widget1.png" width="300">
+  <img src="screenshots/widget2.png" width="300">
+</p>
+
