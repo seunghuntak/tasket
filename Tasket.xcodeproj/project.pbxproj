@@ -212,7 +212,6 @@
 		F11456792F4C2960003E153E /* App */ = {
 			isa = PBXGroup;
 			children = (
-				F114567A2F4C2971003E153E /* Models */,
 				F1A2951F2F48D267005E4167 /* TasketApp.swift */,
 				F1A295172F48D267005E4167 /* RootTabView.swift */,
 			);
@@ -348,6 +347,7 @@
 			isa = PBXGroup;
 			children = (
 				F11456792F4C2960003E153E /* App */,
+				F114567A2F4C2971003E153E /* Models */,
 				F11456822F4C2B52003E153E /* Repeat */,
 				F114567B2F4C2A63003E153E /* Data Storage */,
 				F114567C2F4C2A95003E153E /* Views */,
