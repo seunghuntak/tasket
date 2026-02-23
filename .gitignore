@@ -22,3 +22,6 @@ Carthage/Build/
 
 # Logs
 *.log
+# Local junk
+.Rhistory
+README_LOCAL.md
