@@ -1,10 +1,3 @@
-//
-//  MyFirstAppUITests.swift
-//  MyFirstAppUITests
-//
-//  Created by 탁승훈 on 2/19/26.
-//
-
 import XCTest
 
 final class TasketUITests: XCTestCase {
